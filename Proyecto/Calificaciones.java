@@ -1,6 +1,6 @@
 package Proyecto;
 import javax.swing.JOptionPane;
-
+// clase prin:
 public class Calificaciones {
     public static void main(String[] args) {
         int promedioUnidad = 0, filas = 5;
